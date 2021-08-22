@@ -1,2 +1,2 @@
-# ShotExample
-Example of Shot for Screenshot Testing.
+# Shot Example
+Example of [Shot](https://github.com/Karumi/Shot) for Screenshot Testing.
